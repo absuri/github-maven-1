@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>truck</finalName>
+    <finalName>trucks</finalName>
   </build>
 </project>
